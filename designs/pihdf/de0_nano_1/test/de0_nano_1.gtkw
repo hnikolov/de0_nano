@@ -1,0 +1,38 @@
+[dumpfile] "de0_nano_1/de0_nano_1/out/de0_nano_1_top.vcd"
+[savefile] "de0_nano_1/de0_nano_1/test/de0_nano_1_top.gtkw"
+[timestart] 0
+[pos] -1 -1
+[treeopen] tb_de0_nano_1_top.
+[sst_expanded] 1
+de0_nano_1_top.rst
+de0_nano_1_top.clk
+-
+-MODE_1 (IN)
+de0_nano_1_top.rtl.mode_1_ready
+de0_nano_1_top.rtl.mode_1_valid
+de0_nano_1_top.rtl.mode_1_data
+-
+-MODE_2 (IN)
+de0_nano_1_top.rtl.mode_2_ready
+de0_nano_1_top.rtl.mode_2_valid
+de0_nano_1_top.rtl.mode_2_data[1:0]
+-
+-LEDS (OUT)
+de0_nano_1_top.rtl.LEDs_ready
+de0_nano_1_top.rtl.LEDs_valid
+de0_nano_1_top.rtl.LEDs_data[4:0]
+-
+-LED_RDY_EN (OUT)
+de0_nano_1_top.rtl.LED_rdy_en_ready
+de0_nano_1_top.rtl.LED_rdy_en_valid
+de0_nano_1_top.rtl.LED_rdy_en_data
+-
+-LED_RDY_BUFF (OUT)
+de0_nano_1_top.rtl.LED_rdy_buff_ready
+de0_nano_1_top.rtl.LED_rdy_buff_valid
+de0_nano_1_top.rtl.LED_rdy_buff_data
+-
+-LED_RDY_OUT (OUT)
+de0_nano_1_top.rtl.LED_rdy_out_ready
+de0_nano_1_top.rtl.LED_rdy_out_valid
+de0_nano_1_top.rtl.LED_rdy_out_data

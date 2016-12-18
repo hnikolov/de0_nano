@@ -1,0 +1,2 @@
+de0_nano_1_top.v
+tb_de0_nano_1_top.v
