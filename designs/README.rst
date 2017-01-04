@@ -4,7 +4,7 @@ TODO: Description
 pihdf
 -----
 
-This folder contains FPGA designs developed usinf `pihdf <https://github.com/hnikolov/pihdf>`_.
+This folder contains FPGA designs developed using `pihdf <https://github.com/hnikolov/pihdf>`_.
 
 
 tutorial
