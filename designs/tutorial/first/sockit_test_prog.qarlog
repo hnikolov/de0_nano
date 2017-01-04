@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/sockit_test_prog.qarlog
+
+Archive:	C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/sockit_test_prog.qar
+Date:		Wed Jan 04 14:05:01 2017
+Quartus Prime		16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/output_files/sockit_test.jdi
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/output_files/sockit_test.sld
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/output_files/sockit_test.sof
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/rtl/blinker.v
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/rtl/delay_ctrl.v
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/rtl/oneshot.v
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/rtl/sockit_test.v
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/sockit_test.cdf
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/sockit_test.qpf
+C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/sockit_test.qsf
+c:/altera_lite/16.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 11 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,87 @@
+Archive Project report for sockit_test
+Wed Jan 04 14:05:02 2017
+Quartus Prime Version 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2016 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Wed Jan 04 14:05:02 2017 ;
+; Revision Name          ; sockit_test                           ;
+; Top-level Entity Name  ; sockit_test                           ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Custom' contains:
+    Info: Programming output files
+    Info: Automatically detected source files
+    Info: Project source and settings files
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/hristo/Altera/DE0-Nano-SoC/tutorial/first/sockit_test_prog.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'sockit_test.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera_lite/16.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 910 megabytes
+    Info: Processing ended: Wed Jan 04 14:05:02 2017
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++-----------------------------------------------------------+
+; Files Archived                                            ;
++-----------------------------------------------------------+
+; File Name                                                 ;
++-----------------------------------------------------------+
+; c:/altera_lite/16.0/quartus/bin64/assignment_defaults.qdf ;
+; output_files/sockit_test.jdi                              ;
+; output_files/sockit_test.sld                              ;
+; output_files/sockit_test.sof                              ;
+; rtl/blinker.v                                             ;
+; rtl/delay_ctrl.v                                          ;
+; rtl/oneshot.v                                             ;
+; rtl/sockit_test.v                                         ;
+; sockit_test.cdf                                           ;
+; sockit_test.qpf                                           ;
+; sockit_test.qsf                                           ;
++-----------------------------------------------------------+
+
+
